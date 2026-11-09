@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-int-to-string"
+version = "1.0.0"
+description = 'Magik Int To String'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-int-to-string"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Int To String"
